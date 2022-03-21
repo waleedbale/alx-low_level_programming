@@ -3,7 +3,7 @@
 /**
  * _puts - function that prints a string, followed by a new line, to stdout.
  *
- * @str: prints a string
+ * @str: prints a string.
  *
  * return: 0.
  */
